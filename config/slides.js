@@ -487,5 +487,6 @@ var guaranteedSlides = [
   {image : './slides/laksa-bozz.jpg', title : 'Laksa Bozz', url : ''},
   {image : './slides/no-bozz.jpg', title : 'No Bozz', url : ''},
   {image : './slides/prata-bozz2.jpg', title : 'Prata Bozz 2', url : ''},
-  {image : './slides/run-like-a-bozz.jpg', title : 'Run Like a Bozz', url : ''}
+  {image : './slides/run-like-a-bozz.jpg', title : 'Run Like a Bozz', url : ''},
+  {image : './slides/text-like-a-bozz.jpg', title : 'Text Like a Bozz', url : ''}
 ];
