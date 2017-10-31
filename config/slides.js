@@ -475,4 +475,16 @@ var slides = [			// Slideshow Images
 var guaranteedSlides = [
   // Add slides here in the same format as above to guarantee that a random one
   // will appear during each karaoke session.
+  {image : './slides/prata-bozz.jpg', title : 'Prata Bozz', url : ''},
+  {image : './slides/cupcake-bozz.jpg', title : 'Cupcake Bozz', url : ''},
+  {image : './slides/bike-like-a-bozz.jpg', title: 'Bike Like a Bozz', url : ''},
+  {image : './slides/bozz-the-math-pro.jpg', title : 'Bozz the Math Pro', url : ''},
+  {image : './slides/bozz.jpg', title : 'Bozz', url : ''},
+  {image : './slides/bozz2.jpg', title : 'Bozz2', url : ''},
+  {image : './slides/code-like-a-bozz.jpg', title : 'Code Like a Bozz', url : ''},
+  {image : './slides/cupcake-bozz2.jpg', title : 'Cupcake Bozz 2', url : ''},
+  {image : './slides/exercise-like-a-bozz.jpg', title : 'Exercise Like a Bozz', url : ''},
+  {image : './slides/laksa-bozz.jpg', title : 'Laksa Bozz', url : ''},
+  {image : './slides/no-bozz.jpg', title : 'No Bozz', url : ''},
+  {image : './slides/prata-bozz2.jpg', title : 'Prata Bozz 2', url : ''}
 ];
