@@ -475,6 +475,7 @@ var slides = [			// Slideshow Images
 var guaranteedSlides = [
   // Add slides here in the same format as above to guarantee that a random one
   // will appear during each karaoke session.
+  {image : './slides/commando-yoga.jpg', title : 'Commando Yoga', url : ''},
   {image : './slides/prata-bozz.jpg', title : 'Prata Bozz', url : ''},
   {image : './slides/cupcake-bozz.jpg', title : 'Cupcake Bozz', url : ''},
   {image : './slides/bike-like-a-bozz.jpg', title: 'Bike Like a Bozz', url : ''},
